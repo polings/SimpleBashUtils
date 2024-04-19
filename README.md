@@ -1,5 +1,7 @@
 # Simple Bash Utils
 
+![Pixel art office](readme_img.png)
+
 Development of Bash text utilities: cat, grep.
 
 ### Usage of cat
