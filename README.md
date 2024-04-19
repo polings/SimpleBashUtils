@@ -1,6 +1,8 @@
 # Simple Bash Utils
 
-![Pixel art office](readme_img.png)
+<p align="center">
+  <img src="readme_img.png" alt="Pixel art office" width="800" height="400">
+</p>
 
 Development of Bash text utilities: cat, grep.
 
